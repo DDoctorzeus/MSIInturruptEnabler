@@ -11,3 +11,5 @@ Any distribution must include this readme file.
 I created this application in my spare time to help simplify the process of enabling Message Signal Interrupts between graphics card driver updates.
 
 WARNING! This program comes with absolutely no warranty and while doing this is normally safe you still agree that by using it that it is entirely your fault if you screw up your system! I recommend you read up on what Message Signal Interrupts are before using this.
+
+Please also know I have only tested this on NVIDIA chipsets and not AMD ones but as the concept is the same it should still work (in theory).
